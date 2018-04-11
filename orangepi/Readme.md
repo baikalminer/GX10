@@ -1,5 +1,7 @@
 Baikal Giant X10<BR>
 OrangePI Zero<BR>
+<B>PiZero_GX10_180410_V1.2.img</B> : X11, Quark, Qubit, Skein, Myriad-Groestl, <B>Nist5, X11-gost</B>
 google : https://drive.google.com/drive/folders/1Guf6L8Zd6IXcmPHKxA_oTHo6p1QJovtU?usp=sharing<BR>
 baidu : http://pan.baidu.com/s/1nv9nv0P
-  
+
+
